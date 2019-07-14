@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alc4Phase1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Dennis Maina</string>
+    <string name="track">Track:   Android</string>
+    <string name="country">Country:   Kenya</string>
+    <string name="email">Email:   denniswmaina@gmail.com</string>
+    <string name="phone">Phone Number:   +254 736 689897</string>
+    <string name="username">Slack username:   Dennis Maina</string>
+    <string name="content_name">My profile Picture</string>
+</resources>
